@@ -1,3 +1,9 @@
 public class Simple{
-  public Simple()
+    private String name;
+    private String getName(){
+      return name;
+    }
+  public Simple(){
+
+  }
 }
